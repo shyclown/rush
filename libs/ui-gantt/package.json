@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,6 +34,9 @@
     "trailingComma": "es5"
   },
   "name": "@shyclown/ui-gantt",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Roman Moravcik",
   "module": "dist/ui-gantt.esm.js",
   "size-limit": [
