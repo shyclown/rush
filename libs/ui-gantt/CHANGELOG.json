@@ -2,6 +2,24 @@
   "name": "@shyclown/ui-gantt",
   "entries": [
     {
+      "version": "0.1.4",
+      "tag": "@shyclown/ui-gantt_v0.1.4",
+      "date": "Sat, 26 Nov 2022 21:32:29 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "test changes"
+          },
+          {
+            "comment": "test"
+          },
+          {
+            "comment": "testing changes"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.2",
       "tag": "@shyclown/ui-gantt_v0.1.2",
       "date": "Sat, 26 Nov 2022 21:09:22 GMT",
