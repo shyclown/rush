@@ -21,4 +21,4 @@
 
 
 @shyclown:registry=https://npm.pkg.github.com/:_authToken=${GITHUB_PUBLISH_TOKEN}
-always-auth=false
+always-auth=true

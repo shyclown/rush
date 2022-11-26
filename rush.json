@@ -334,7 +334,8 @@
       "packageName": "@shyclown/ui-gantt",
       "projectFolder": "libs/ui-gantt",
       "tags": ["published"],
-      "shouldPublish": true
+      "shouldPublish": true,
+      "publishFolder": "./"
     }
     // {
     //   /**
