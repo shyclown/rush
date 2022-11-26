@@ -18,3 +18,4 @@
 #
 #   //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}
 #
+@shyclown:registry=https://npm.pkg.github.com

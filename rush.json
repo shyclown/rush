@@ -326,10 +326,13 @@
   "projects": [
     {
       "packageName": "pnpm-cra",
-      "projectFolder": "apps/pnpm-cra"
+      "projectFolder": "apps/pnpm-cra",
+      "shouldPublish": false
     },{
       "packageName": "@shyclown/ui-gantt",
-      "projectFolder": "libs/ui-gantt"
+      "projectFolder": "libs/ui-gantt",
+      "tags": ["published"],
+      "shouldPublish": true
     }
     // {
     //   /**
