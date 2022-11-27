@@ -1,6 +1,14 @@
 # Change Log - @shyclown/ui-gantt
 
-This log was last generated on Sun, 27 Nov 2022 08:43:21 GMT and should not be manually modified.
+This log was last generated on Sun, 27 Nov 2022 08:52:40 GMT and should not be manually modified.
+
+## 0.1.8
+Sun, 27 Nov 2022 08:52:40 GMT
+
+### Patches
+
+- test
+- another test
 
 ## 0.1.7
 Sun, 27 Nov 2022 08:43:21 GMT
