@@ -20,5 +20,6 @@
 #
 
 @shyclown:registry=https://npm.pkg.github.com/:_authToken=${GITHUB_PUBLISH_TOKEN}
-_auth=${GITHUB_PUBLISH_TOKEN}
+//my-registry.example.com/npm-private/:_password=${GITHUB_PUBLISH_TOKEN}
+username=shyclown
 always-auth=true
