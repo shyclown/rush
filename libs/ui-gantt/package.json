@@ -35,7 +35,7 @@
   },
   "name": "@shyclown/ui-gantt",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@shyclown:registry": "https://npm.pkg.github.com"
   },
   "author": "Roman Moravcik",
   "module": "dist/ui-gantt.esm.js",
