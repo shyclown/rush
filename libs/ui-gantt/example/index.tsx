@@ -1,12 +1,12 @@
-import 'react-app-polyfill/ie11';
-import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { Thing } from '../.';
+import {Gantt} from "../src";
+import {FC} from "react";
+import React = require('react');
 
-const App = () => {
+const App: FC = () => {
   return (
     <div>
-      <Thing />
+      <Gantt data={[{key:"str"}]}/>
     </div>
   );
 };
