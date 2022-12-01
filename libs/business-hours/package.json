@@ -1,0 +1,27 @@
+{
+  "name": "@shyclown/business-hours",
+  "version": "1.0.0",
+  "description": "business hours utils",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "busines",
+    "time",
+    "hours"
+  ],
+  "dependencies": {
+    "date-fns": "~2.29.3",
+    "tslint": "~6.1.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "author": "Roman Moravcik",
+  "license": "MIT"
+
+}

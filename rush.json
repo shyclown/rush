@@ -336,6 +336,13 @@
       "tags": ["published"],
       "shouldPublish": true,
       "publishFolder": "./"
+    },
+    {
+      "packageName": "@shyclown/business-hours",
+      "projectFolder": "libs/business-hours",
+      "tags": ["published"],
+      "shouldPublish": true,
+      "publishFolder": "./"
     }
     // {
     //   /**
